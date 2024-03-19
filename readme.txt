@@ -1,2 +1,2 @@
 Hello all
-welcome to deveops class
+welcome to devops class
